@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HotdogWebsite/static/css/main.d6a5a4c1.css",
+    "main.js": "/HotdogWebsite/static/js/main.207e44d9.js",
+    "static/js/787.d8e008c7.chunk.js": "/HotdogWebsite/static/js/787.d8e008c7.chunk.js",
+    "index.html": "/HotdogWebsite/index.html",
+    "main.d6a5a4c1.css.map": "/HotdogWebsite/static/css/main.d6a5a4c1.css.map",
+    "main.207e44d9.js.map": "/HotdogWebsite/static/js/main.207e44d9.js.map",
+    "787.d8e008c7.chunk.js.map": "/HotdogWebsite/static/js/787.d8e008c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6a5a4c1.css",
+    "static/js/main.207e44d9.js"
+  ]
+}
